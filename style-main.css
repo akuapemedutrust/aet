@@ -1,0 +1,120 @@
+
+.container-main-page-elementor-main-page{
+    background-image: url(media/pexels-armin-rimoldi-5554242.jpg);
+    background-color: #000000;
+    background-size: cover;
+    width: 90%;
+    position: relative;
+    left: 10%;
+    z-index: 1;
+    color: #fff;
+    overflow: hidden;
+
+}
+
+
+.elementor-story-main-page_first-story-first-division,
+.elementor-story-main-page_first-story-second-division,
+.elementor-story-main-page_first-story-third-division{
+    width: 100%;
+    display: block;
+    height: 800px;
+    position: relative;
+    top: 30px;
+
+.elementor-section-page-element {
+    position: relative;
+    top: 54px;
+    left: 0;
+
+}
+}
+.elementor-story-main-page_first-story-first-division,
+.elementor-story-main-page_first-story-second-division,
+.elementor-story-main-page_first-story-third-division{
+.container-main-page-img {
+    width: 100%;
+        height: 400px;
+        display: flex;
+        position: relative;
+        left: 0%;
+        bottom: 1%;
+        background-color: #fff;
+        .container-main-page-img-sub{
+        display: block;
+        position: relative;
+        top: 5%;
+        left: 1%;
+        color: #000;
+
+
+            img{
+                height: 365px;
+                width: 300px;
+                border-radius: 10px;
+                border: 2px solid #000;
+                box-shadow: 2px 2px 4px rgb(109, 109, 107);
+                position: relative;
+                top: 0.5%;
+            }
+        
+            .main-page-elementor-details-section{
+                margin-left: 55px;
+                width: 50%;
+                display: block;
+        
+                .main-text-details{
+                    display: block;
+                    cursor: default;
+                    text-align: justify;
+                    position: relative;
+                    bottom: 365px;
+                    left: 265px;
+
+
+                    h2{
+                        margin-bottom: 05px;
+                        color: rgb(0, 0, 0);
+                        font-weight: 300;
+                        font-family: Sans-serif;
+                         font-size: 15px;
+                    }
+        
+                    p{
+                        position: relative;
+                        bottom: 30%;
+                        left: 0;
+                        font-family: "Montserrat", Sans-serif;            
+                        color: #000000;
+                        font-size: 20px;
+                        font-weight: 700;
+                        text-transform: capitalize;
+                        cursor: default;
+                        word-spacing: 6px;
+                    }
+                }
+            }
+
+        }
+    
+   
+}
+}
+.main-page-elementor-details-section .main-text-details p:hover{
+    font-size: 23px;
+    font-weight: 900;
+    transition: 0.4s ease;
+}
+
+
+.elementor-main-story-section .elementor-main-page-section-story{
+    position: relative;
+    top: 20px;
+    left: 05px;
+    width: 97%;
+}
+
+.elementor-main-story-section .elementor-main-page-section-story{
+    width: 95%;
+    text-align: justify;
+}
